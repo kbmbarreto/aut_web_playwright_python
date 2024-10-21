@@ -15,7 +15,6 @@ Para executar, utilize o comando do Pytest na raiz do projeto:
 
 <br>`pytest` -> executa todos os testes do projeto;
 <br>`pytest -v` -> executa os testes exibindo mais detalhes no console;
-<br>`pytest -v` -> executa os testes exibindo mais detalhes no console;
 
 <br>`pytest --cache-clear` -> limpa o cache do pytest.
 
